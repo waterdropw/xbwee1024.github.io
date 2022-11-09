@@ -224,7 +224,7 @@
 <li>向 hwservicemanager 注册该服务：<ul>
 <li>首先在 <code>hwservicemanager</code> 中插入一个 <code>HidlService</code> (interfaceName, instanceName)</li>
 <li>其次生成的 <code>CameraProvider</code> 对象也要透过 IPC 调用 <code>hidl::manager::add</code> 把自己添加到 <code>hwservicemanager</code>，因为上一步已经插入了一个对应的 <code>HidlService</code> 所以仅仅是更新 <code>pid</code>和 <code>service</code> 指向实例对象</li>
-<li>(interfaceName， instanceName) 对应 internal camera provider 就是 (“<a href="mailto:&#x61;&#110;&#100;&#114;&#111;&#x69;&#100;&#x2e;&#x68;&#97;&#x72;&#x64;&#119;&#x61;&#114;&#101;&#46;&#99;&#97;&#109;&#101;&#114;&#97;&#46;&#x70;&#x72;&#x6f;&#x76;&#x69;&#100;&#x65;&#x72;&#64;&#x32;&#46;&#52;">&#x61;&#110;&#100;&#114;&#111;&#x69;&#100;&#x2e;&#x68;&#97;&#x72;&#x64;&#119;&#x61;&#114;&#101;&#46;&#99;&#97;&#109;&#101;&#114;&#97;&#46;&#x70;&#x72;&#x6f;&#x76;&#x69;&#100;&#x65;&#x72;&#64;&#x32;&#46;&#52;</a>::ICameraProvider”, “&#x2F;legacy&#x2F;0”)，</li>
+<li>(interfaceName， instanceName) 对应 internal camera provider 就是 (“<a href="mailto:&#97;&#110;&#100;&#x72;&#111;&#x69;&#x64;&#x2e;&#104;&#97;&#114;&#100;&#x77;&#97;&#x72;&#101;&#x2e;&#99;&#97;&#109;&#101;&#114;&#x61;&#46;&#112;&#x72;&#x6f;&#x76;&#x69;&#100;&#101;&#x72;&#x40;&#x32;&#x2e;&#52;">&#97;&#110;&#100;&#x72;&#111;&#x69;&#x64;&#x2e;&#104;&#97;&#114;&#100;&#x77;&#97;&#x72;&#101;&#x2e;&#99;&#97;&#109;&#101;&#114;&#x61;&#46;&#112;&#x72;&#x6f;&#x76;&#x69;&#100;&#101;&#x72;&#x40;&#x32;&#x2e;&#52;</a>::ICameraProvider”, “&#x2F;legacy&#x2F;0”)，</li>
 </ul>
 </li>
 </ol>
@@ -363,7 +363,7 @@ function loadGitalk () {
       repo: 'xbwee1024.github.io',
       owner: 'xbwee1024',
       admin: ['xbwee1024'],
-      proxy: ['https://81.70.197.14/https://github.com/login/oauth/access_token'],
+      proxy: ['https://cross.xbwee.space/https://github.com/login/oauth/access_token'],
       id: '9f48efd922eb49e0cbf89bb4973b8c31',
       updateCountCallback: commentCount
     },null))
