@@ -3,11 +3,11 @@
   <title>xbwee 的博客</title>
   
   <subtitle>思绪如风，偶尔在此停留</subtitle>
-  <link href="https://xbwee1024.github.io/atom.xml" rel="self"/>
+  <link href="https://www.xbwee.space/atom.xml" rel="self"/>
   
-  <link href="https://xbwee1024.github.io/"/>
+  <link href="https://www.xbwee.space/"/>
   <updated>2022-11-08T12:02:29.426Z</updated>
-  <id>https://xbwee1024.github.io/</id>
+  <id>https://www.xbwee.space/</id>
   
   <author>
     <name>xbwee</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>C++ 函数实现的异常覆盖</title>
-    <link href="https://xbwee1024.github.io/2020/12/25/Compiler-Bug-for-C-Funcs-Override/"/>
-    <id>https://xbwee1024.github.io/2020/12/25/Compiler-Bug-for-C-Funcs-Override/</id>
+    <link href="https://www.xbwee.space/2020/12/25/Compiler-Bug-for-C-Funcs-Override/"/>
+    <id>https://www.xbwee.space/2020/12/25/Compiler-Bug-for-C-Funcs-Override/</id>
     <published>2020-12-25T10:09:59.000Z</published>
     <updated>2022-11-08T12:02:29.426Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="C++" scheme="https://xbwee1024.github.io/categories/C/"/>
+    <category term="C++" scheme="https://www.xbwee.space/categories/C/"/>
     
-    <category term="Android NDK" scheme="https://xbwee1024.github.io/categories/C/Android-NDK/"/>
+    <category term="Android NDK" scheme="https://www.xbwee.space/categories/C/Android-NDK/"/>
     
     
-    <category term="Android NDK" scheme="https://xbwee1024.github.io/tags/Android-NDK/"/>
+    <category term="Android NDK" scheme="https://www.xbwee.space/tags/Android-NDK/"/>
     
   </entry>
   
   <entry>
     <title>Android Camera HAL 新架构</title>
-    <link href="https://xbwee1024.github.io/2020/11/18/Android-Camera-HAL-Treble/"/>
-    <id>https://xbwee1024.github.io/2020/11/18/Android-Camera-HAL-Treble/</id>
+    <link href="https://www.xbwee.space/2020/11/18/Android-Camera-HAL-Treble/"/>
+    <id>https://www.xbwee.space/2020/11/18/Android-Camera-HAL-Treble/</id>
     <published>2020-11-18T09:40:24.000Z</published>
     <updated>2022-11-15T10:51:05.202Z</updated>
     
@@ -55,19 +55,19 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   
   <entry>
     <title>Android 外接 USB 摄像头</title>
-    <link href="https://xbwee1024.github.io/2020/11/12/Android-External-USB-Cameras/"/>
-    <id>https://xbwee1024.github.io/2020/11/12/Android-External-USB-Cameras/</id>
+    <link href="https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/"/>
+    <id>https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/</id>
     <published>2020-11-12T09:42:17.000Z</published>
     <updated>2022-11-15T10:51:11.596Z</updated>
     
@@ -84,21 +84,21 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
-    <category term="usbcamera" scheme="https://xbwee1024.github.io/categories/android/camera-hal/usbcamera/"/>
+    <category term="usbcamera" scheme="https://www.xbwee.space/categories/android/camera-hal/usbcamera/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   
   <entry>
     <title>Android USB Camera 的实现方案</title>
-    <link href="https://xbwee1024.github.io/2020/11/02/Android-USB-Camera-Implementations/"/>
-    <id>https://xbwee1024.github.io/2020/11/02/Android-USB-Camera-Implementations/</id>
+    <link href="https://www.xbwee.space/2020/11/02/Android-USB-Camera-Implementations/"/>
+    <id>https://www.xbwee.space/2020/11/02/Android-USB-Camera-Implementations/</id>
     <published>2020-11-02T06:36:18.000Z</published>
     <updated>2022-11-08T12:02:29.423Z</updated>
     
@@ -110,21 +110,21 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
-    <category term="usbcamera" scheme="https://xbwee1024.github.io/categories/android/camera-hal/usbcamera/"/>
+    <category term="usbcamera" scheme="https://www.xbwee.space/categories/android/camera-hal/usbcamera/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   
   <entry>
     <title>V4L2 Camera HALv3 介绍</title>
-    <link href="https://xbwee1024.github.io/2020/10/25/V4L2-Camera-HALv3/"/>
-    <id>https://xbwee1024.github.io/2020/10/25/V4L2-Camera-HALv3/</id>
+    <link href="https://www.xbwee.space/2020/10/25/V4L2-Camera-HALv3/"/>
+    <id>https://www.xbwee.space/2020/10/25/V4L2-Camera-HALv3/</id>
     <published>2020-10-25T06:13:21.000Z</published>
     <updated>2022-11-08T12:02:29.428Z</updated>
     
@@ -136,21 +136,21 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
-    <category term="usbcamera" scheme="https://xbwee1024.github.io/categories/android/camera-hal/usbcamera/"/>
+    <category term="usbcamera" scheme="https://www.xbwee.space/categories/android/camera-hal/usbcamera/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   
   <entry>
     <title>Android Camera HAL 介绍</title>
-    <link href="https://xbwee1024.github.io/2020/10/23/Android-Camera-HAL-Intro/"/>
-    <id>https://xbwee1024.github.io/2020/10/23/Android-Camera-HAL-Intro/</id>
+    <link href="https://www.xbwee.space/2020/10/23/Android-Camera-HAL-Intro/"/>
+    <id>https://www.xbwee.space/2020/10/23/Android-Camera-HAL-Intro/</id>
     <published>2020-10-23T02:48:12.000Z</published>
     <updated>2022-11-08T12:02:29.414Z</updated>
     
@@ -169,19 +169,19 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   
   <entry>
     <title>Android HAL 介绍</title>
-    <link href="https://xbwee1024.github.io/2020/10/22/Android-HAL-Intro/"/>
-    <id>https://xbwee1024.github.io/2020/10/22/Android-HAL-Intro/</id>
+    <link href="https://www.xbwee.space/2020/10/22/Android-HAL-Intro/"/>
+    <id>https://www.xbwee.space/2020/10/22/Android-HAL-Intro/</id>
     <published>2020-10-22T02:48:12.000Z</published>
     <updated>2022-11-15T10:51:19.935Z</updated>
     
@@ -194,12 +194,12 @@
     
     
     
-    <category term="android" scheme="https://xbwee1024.github.io/categories/android/"/>
+    <category term="android" scheme="https://www.xbwee.space/categories/android/"/>
     
-    <category term="camera hal" scheme="https://xbwee1024.github.io/categories/android/camera-hal/"/>
+    <category term="camera hal" scheme="https://www.xbwee.space/categories/android/camera-hal/"/>
     
     
-    <category term="Android Camera HAL" scheme="https://xbwee1024.github.io/tags/Android-Camera-HAL/"/>
+    <category term="Android Camera HAL" scheme="https://www.xbwee.space/tags/Android-Camera-HAL/"/>
     
   </entry>
   

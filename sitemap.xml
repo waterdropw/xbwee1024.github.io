@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/10/22/Android-HAL-Intro/</loc>
+    <loc>https://www.xbwee.space/2020/10/22/Android-HAL-Intro/</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/11/12/Android-External-USB-Cameras/</loc>
+    <loc>https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/11/18/Android-Camera-HAL-Treble/</loc>
+    <loc>https://www.xbwee.space/2020/11/18/Android-Camera-HAL-Treble/</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/10/25/V4L2-Camera-HALv3/</loc>
+    <loc>https://www.xbwee.space/2020/10/25/V4L2-Camera-HALv3/</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/12/25/Compiler-Bug-for-C-Funcs-Override/</loc>
+    <loc>https://www.xbwee.space/2020/12/25/Compiler-Bug-for-C-Funcs-Override/</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/11/02/Android-USB-Camera-Implementations/</loc>
+    <loc>https://www.xbwee.space/2020/11/02/Android-USB-Camera-Implementations/</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/2020/10/23/Android-Camera-HAL-Intro/</loc>
+    <loc>https://www.xbwee.space/2020/10/23/Android-Camera-HAL-Intro/</loc>
     
     <lastmod>2022-11-08</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/tags/index.html</loc>
+    <loc>https://www.xbwee.space/tags/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/googled7c6edc3a9953ead.html</loc>
+    <loc>https://www.xbwee.space/googled7c6edc3a9953ead.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/index.html</loc>
+    <loc>https://www.xbwee.space/categories/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/about/index.html</loc>
+    <loc>https://www.xbwee.space/about/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/hot/index.html</loc>
+    <loc>https://www.xbwee.space/hot/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -111,7 +111,7 @@
   
 
   <url>
-    <loc>https://xbwee1024.github.io/</loc>
+    <loc>https://www.xbwee.space/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -119,14 +119,14 @@
 
   
   <url>
-    <loc>https://xbwee1024.github.io/tags/Android-Camera-HAL/</loc>
+    <loc>https://www.xbwee.space/tags/Android-Camera-HAL/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/tags/Android-NDK/</loc>
+    <loc>https://www.xbwee.space/tags/Android-NDK/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -135,35 +135,35 @@
 
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/android/</loc>
+    <loc>https://www.xbwee.space/categories/android/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/android/camera-hal/</loc>
+    <loc>https://www.xbwee.space/categories/android/camera-hal/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/C/</loc>
+    <loc>https://www.xbwee.space/categories/C/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/android/camera-hal/usbcamera/</loc>
+    <loc>https://www.xbwee.space/categories/android/camera-hal/usbcamera/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xbwee1024.github.io/categories/C/Android-NDK/</loc>
+    <loc>https://www.xbwee.space/categories/C/Android-NDK/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
