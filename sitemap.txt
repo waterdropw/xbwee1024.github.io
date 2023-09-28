@@ -22,5 +22,5 @@ https://www.xbwee.space/categories/C/
 https://www.xbwee.space/categories/LLM/
 https://www.xbwee.space/categories/android/camera-hal/usbcamera/
 https://www.xbwee.space/categories/C/Android-NDK/
-https://www.xbwee.space/categories/LLM/LLaMA/
 https://www.xbwee.space/categories/LLM/NCCL/
+https://www.xbwee.space/categories/LLM/LLaMA/
