@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xbwee.space/2020/10/22/Android-HAL-Intro/</loc>
+    <loc>https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/</loc>
     
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2023-09-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/</loc>
+    <loc>https://www.xbwee.space/2020/10/22/Android-HAL-Intro/</loc>
     
     <lastmod>2022-11-15</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/categories/index.html</loc>
+    <loc>https://www.xbwee.space/about/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/about/index.html</loc>
+    <loc>https://www.xbwee.space/categories/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
