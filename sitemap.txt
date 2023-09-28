@@ -1,3 +1,4 @@
+https://www.xbwee.space/2023/09/28/LLaMA/
 https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/
 https://www.xbwee.space/2020/10/22/Android-HAL-Intro/
 https://www.xbwee.space/2020/11/18/Android-Camera-HAL-Treble/
@@ -12,9 +13,13 @@ https://www.xbwee.space/categories/index.html
 https://www.xbwee.space/hot/index.html
 https://www.xbwee.space/
 https://www.xbwee.space/tags/Android-Camera-HAL/
+https://www.xbwee.space/tags/%E5%8E%9F%E5%88%9B/
 https://www.xbwee.space/tags/Android-NDK/
 https://www.xbwee.space/categories/android/
 https://www.xbwee.space/categories/android/camera-hal/
-https://www.xbwee.space/categories/C/
 https://www.xbwee.space/categories/android/camera-hal/usbcamera/
+https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/
+https://www.xbwee.space/categories/C/
+https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/
 https://www.xbwee.space/categories/C/Android-NDK/
+https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/LLaMA/
