@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xbwee.space/2023/09/28/LLaMA/</loc>
+    <loc>https://www.xbwee.space/2023/09/28/NCCL-Debug/</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/2023/09/28/NCCL-Debug/</loc>
+    <loc>https://www.xbwee.space/2023/09/28/LLaMA/</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/hot/index.html</loc>
-    
-    <lastmod>2021-03-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xbwee.space/about/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
@@ -120,6 +111,15 @@
   
   <url>
     <loc>https://www.xbwee.space/categories/index.html</loc>
+    
+    <lastmod>2021-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xbwee.space/hot/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -144,14 +144,14 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/tags/%E5%8E%9F%E5%88%9B/</loc>
+    <loc>https://www.xbwee.space/tags/Android-NDK/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/tags/Android-NDK/</loc>
+    <loc>https://www.xbwee.space/tags/%E5%8E%9F%E5%88%9B/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,13 +161,6 @@
   
   <url>
     <loc>https://www.xbwee.space/categories/android/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/LLM/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -188,7 +181,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/categories/LLM/LLaMA/</loc>
+    <loc>https://www.xbwee.space/categories/LLM/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -203,6 +196,13 @@
   
   <url>
     <loc>https://www.xbwee.space/categories/C/Android-NDK/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xbwee.space/categories/LLM/LLaMA/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
