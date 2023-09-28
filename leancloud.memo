@@ -15,4 +15,5 @@
 {"title":"Arm Neon Intro","url":"/2021/04/20/Arm-Neon-Intro/"},
 {"title":"Arm ASM Intro","url":"/2021/04/27/Arm-ASM-Intro/"},
 {"title":"论文摘要-LLaMA","url":"/2023/09/28/LLaMA/"},
+{"title":"多机多卡训练：NCCL Debug","url":"/2023/09/28/NCCL-Debug/"},
 ]

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xbwee.space/2023/09/28/NCCL-Debug/</loc>
+    <loc>https://www.xbwee.space/2023/09/28/LLaMA/</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/2023/09/28/LLaMA/</loc>
+    <loc>https://www.xbwee.space/2023/09/28/NCCL-Debug/</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -101,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://www.xbwee.space/hot/index.html</loc>
+    
+    <lastmod>2021-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xbwee.space/about/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://www.xbwee.space/categories/index.html</loc>
-    
-    <lastmod>2021-03-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/hot/index.html</loc>
     
     <lastmod>2021-03-19</lastmod>
     
@@ -167,21 +167,14 @@
   </url>
   
   <url>
+    <loc>https://www.xbwee.space/categories/LLM/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xbwee.space/categories/android/camera-hal/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/android/camera-hal/usbcamera/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -195,7 +188,14 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/</loc>
+    <loc>https://www.xbwee.space/categories/LLM/LLaMA/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xbwee.space/categories/android/camera-hal/usbcamera/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -209,28 +209,7 @@
   </url>
   
   <url>
-    <loc>https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/LLaMA/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/LLM/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/LLM/%E5%A4%9A%E6%9C%BA%E5%A4%9A%E5%8D%A1/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xbwee.space/categories/LLM/%E5%A4%9A%E6%9C%BA%E5%A4%9A%E5%8D%A1/NCCL/</loc>
+    <loc>https://www.xbwee.space/categories/LLM/NCCL/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
