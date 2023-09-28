@@ -1,3 +1,4 @@
+https://www.xbwee.space/2023/09/28/NCCL-Debug/
 https://www.xbwee.space/2023/09/28/LLaMA/
 https://www.xbwee.space/2020/11/12/Android-External-USB-Cameras/
 https://www.xbwee.space/2020/10/22/Android-HAL-Intro/
@@ -23,3 +24,6 @@ https://www.xbwee.space/categories/C/
 https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/
 https://www.xbwee.space/categories/C/Android-NDK/
 https://www.xbwee.space/categories/%E8%AE%BA%E6%96%87%E6%91%98%E8%A6%81/LLM/LLaMA/
+https://www.xbwee.space/categories/LLM/
+https://www.xbwee.space/categories/LLM/%E5%A4%9A%E6%9C%BA%E5%A4%9A%E5%8D%A1/
+https://www.xbwee.space/categories/LLM/%E5%A4%9A%E6%9C%BA%E5%A4%9A%E5%8D%A1/NCCL/
